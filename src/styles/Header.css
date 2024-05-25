@@ -18,6 +18,11 @@ header {
 		* {
 			margin-left: 5rem;
 			text-decoration: none;
+			background-color: steelblue;
+		}
+
+		*:hover{
+			background-color: darkturquoise;
 		}
 	}
 }
